@@ -1,0 +1,71 @@
+.body {
+    text-align: center;
+    background: #ffbf00;
+    min-height: 100px;
+}
+.add-Journey{
+    background: #ffbf00;
+    width: 100%;
+    padding: 3px 7px;
+    font-size: 17px;
+}
+
+.add-input{
+    display: inline-block;
+    background: #000;
+    color: #fff;
+    border: none;
+    padding: 1px 1px;
+    margin: 4px;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: inherit;
+}
+
+form-control{
+    padding: 1px 1px;
+
+    border-radius: 5px;
+    font-size: 17px;
+}
+
+.journeys-form{
+    background: #ffbf00;
+    padding: 1px 1px;
+
+    border-radius: 4px;
+}
+
+.leaflet-container {
+    width: 200px;
+    height: 100px;
+    z-index: 1;
+}
+
+.leaflet-map{
+    width: 100%;
+    height: 100vh;
+    z-index: 1;
+}
+
+MapContainer{
+    width: 100%;
+    height: 100vh;
+    z-index: 1;
+}
+
+.map-row{
+    width: 100%;
+    height: 100vh;
+}
+
+.map-col{
+    width: 100%;
+    height: 100vh;
+}
+
+.journey-icons{
+    margin-left: 10px;
+}

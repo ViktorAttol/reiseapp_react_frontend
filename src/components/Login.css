@@ -1,0 +1,12 @@
+.error {
+    border: 5px solid red;
+}
+.hidden {
+    display: none;
+}
+
+.login-form{
+    margin-top: 30px;
+    background: #ffbf00;
+    min-height: 100px;
+}
